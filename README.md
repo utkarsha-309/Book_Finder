@@ -49,7 +49,12 @@ book-finder/
 3.Include dark mode
 
 
+
+
+
 ##Notes Of Book-Finder
+
+
 Project Goal
 This project aims to develop a simple web application that allows users to search for books by title. The application utilizes the Open Library Search API to display relevant book details in a clean and responsive interface.
 
